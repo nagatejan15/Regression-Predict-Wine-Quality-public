@@ -1,0 +1,10 @@
+{
+    "input_size": 11,
+    "hidden_layers": {
+        "layer1": 64,
+        "layer2": 32
+    },
+    "learning_rate": 0.001,
+    "epochs": 200,
+    "batch_size": 32
+}
